@@ -13,3 +13,5 @@ Machin Learning
 + El verdadero amor por las buenas practicas
 + Trucos muy locos del profesor
 + Creado por el increible PLatzi Team
++ Incluye ejemplos en sitemes diferentes
++ disponibles pára todas las edades
