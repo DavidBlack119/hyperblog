@@ -12,3 +12,4 @@ Machin Learning
 + El flujo de trabjo en GitHub
 + El verdadero amor por las buenas practicas
 + Trucos muy locos del profesor
++ Creado por el increible PLatzi Team
